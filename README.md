@@ -1,4 +1,4 @@
-# <p align="center">To do List 만들기</p>
+# <p align="center">자바스크립트로 To Do List 만들기</p>
 <p align="center"><img width="35%" src="https://github.com/hansol92010/todo_JS/assets/130436788/fae68a9c-f3f1-4024-adb2-899764697333" /></p>
 
 ******
